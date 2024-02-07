@@ -1,2 +1,2 @@
 hello
-this is simple wordle hmlt.
+this is simple wordle html.
